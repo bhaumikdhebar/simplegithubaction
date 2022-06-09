@@ -1,11 +1,4 @@
 <?php
 echo 'PHP version:',phpversion();
 
-HI this is demo task..... new 
-hi
-  Hi there ......hiiii rrererererdgfgfgghhghghghghh
-gfghghfghh
-hhhh
-hhhhh
-fffdff
-sdsdsd
+This is github action SSH command demo task to test whether CI is working or not? 
